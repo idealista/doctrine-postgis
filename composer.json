@@ -1,6 +1,6 @@
 {
-    "name": "jsor/doctrine-postgis",
-    "description": "Spatial and Geographic Data with PostGIS and Doctrine.",
+    "name": "idealista/doctrine-postgis",
+    "description": "Spatial and Geographic Data with PostGIS and Doctrine. (by jsor)",
     "keywords": [
         "spatial",
         "doctrine",
